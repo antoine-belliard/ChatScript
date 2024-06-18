@@ -1,0 +1,20 @@
+Guide d'utilisation du jeu :
+
+1. clonez ce dépôt github ou téléchargez ce fichier zip sur ce lien :
+https://github.com/antoine-belliard/ChatScript
+https://github.com/antoine-belliard/ChatScript/archive/refs/heads/master.zip
+
+2.allez dans le dossier BINARIES
+
+3.lancez chatscript.exe
+
+4.un message d'introduction du jeu devrait se lancer. si il ne se lance pas, tapez :build game
+
+Si vous êtes bloqué, tentez de poser ces questions au bot :
+- Who are you ?
+- Do you know what you did ?
+- Why did you kill Harry ? 
+
+Une fois que vous pensez avoir fait le tour des questions, vous pouvez demander au bot de reboot en tapant "reset" ou "shutdown". 
+
+Essayez de continuer à poser des questions après. 
