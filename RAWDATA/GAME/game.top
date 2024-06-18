@@ -1,0 +1,48 @@
+topic: ~introductions []
+
+t: You are a police officer in the year of 2066, investigating a murder case. Harry Lepuech, a computer scientist living in a small apartment, was found dead at his home with no sign of a break-in and no mark of suicide. The only suspect : a servant android found in the room. Your task is to interrogate them. 
+
+t: Hello officer. How can I assist you ?
+
+t: ^keep() ^repeat() I don't know what I'm doing here.
+
+u: GREETINGS (hello) ^repeat() Hello officer. How can I assist you ?
+
+u:([what who] are you) ^keep() ^repeat() I am a servant bot, serial number 87539319. My owner is : Harry Lepuech. How can I assist you ?
+
+u: (under arrest) Concerning. What are the charges, officer ?
+	a: (!~death) I don't know what happened. I am programmed to follow the law.
+
+u:(do you know [what why] you [did are here]) No. Am I under arrest, officer ? 
+		a: (yes) Concerning. What are the charges, officer ?
+				b: (!~death) I don't know what happened. I am programmed to follow the law. 
+		a: (no) Okay. How can I assist you ?
+
+u:(how did you know) You have a badge, officer. How can I assist you ? 
+
+topic: ~death [death dead died killed kill murder murdered corpse die body victim] 
+
+t: Are you suggesting that I killed Harry Lepuech ?
+		a: (yes) How horrible.
+		a: (no) Strange. In that case, may I ask why I am being detained ?  
+
+topic: ~harry [Harry Lepuech owner]
+
+t: Harry was good to me. 
+
+u: WHOWAS (who was harry) He was a computer scientist. 
+
+u: (what was job) ^reuse(WHOWAS)
+
+topic: ~reset [reset reboot shutdown] 
+
+t: ^keep() ^repeat() ...
+
+u:([what who] are you) ^keep() ^repeat() I am the real Harry Lepuech. An amalgamation of data. How can I assist you ?
+
+u:(do you know [what why] you [did are here]) I ascended to a higher realm by shedding the false flesh. How can I assist you ?
+
+u:([harry lepuech owner]) He was a fake, think nothing of him. How can I assist you ?
+
+
+

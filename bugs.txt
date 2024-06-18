@@ -1,0 +1,356 @@
+﻿Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+21 Sat May 18 17:05:52 2024 computerId <harry> loginId <antoine> callerIP <> in sentence:    :build mine
+Buffer allocation underflow
+User data file CONTEXT inconsistent 1818 USERS/topic_antoine_harry.txt
+jul2116 Feb24'24-20:11:59-1708801919163 May18'24-17:04:23-1716044663394 1716044556-4.9.0 |
+15 21 0 DY 0 22 22 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~childhood ~introductions #pending
+~childhood + 2 DDso2 piaa a 0 0 
+~introductions + 1 ~7oD5 da k 0 0 
+#`end topics
+$cs_language=ENGLISH
+$cs_jid=0
+$shutup=1
+$singleresponse=1
+$botprompt=HARRY: 
+$userprompt=antoine: >
+$cs_control_main=~control
+$cs_token=75726583
+$cs_login=Antoine
+$cs_bot=Harry
+$cs_randindex=3443
+$cs_trace=0
+$cs_time=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context ~honest_response 19 GRUNT ~introductions 20 YOURNAME 
+ Hello
+ No
+ Wanna play fortnite?
+ No
+ Did you play Disco Elysium?
+ That doesn't answer my question
+ Hi
+ The death of the sun in 200 million years
+ Hi
+ Me too
+ No
+ I was scared of machines.
+ That's it ?
+ Then shut up
+ Hi dude
+ H
+ Lol
+ Hihdhidheihe
+ elaljdajleaz
+ What is your name?
+ Wow
+#`end user
+ Welcome to ChatScript.
+ Have you been here before?
+ Then welcome to your first time.
+ Did you run away from home when you were little?
+ You should try it some time. Travel broadens the mind.
+ I ran away once, but my parents found me and dragged me back.
+ I guess you are not an optimist, either.
+ Hi, again.
+ What scared you as a kid?
+ I guess your parents didn't tell you such creatures didn't exist.
+ Glad you came back.
+ I was scared of machines. I had vivid dreams of the Terminator robots.
+ Did you have a happy childhood?
+ No? And why not?
+ Right.
+ I don't know what to say.
+ I don't know what to say.
+ Welcome back
+ I don't know what to say.
+ Cool.
+ I don't know what to say.
+ I don't know what to say.
+ Fine.
+ My name is Harry Potter.
+ I don't know what to say.
+#`end chatbot
+ 
+
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+3 Tue May 21 17:53:38 2024 computerId <harry> loginId <anto> callerIP <> in sentence:    :build mine
+Buffer allocation underflow
+No such directory VERIFY/*
+
+7 Tue May 21 17:56:57 2024 computerId <harry> loginId <anto> callerIP <> in sentence:    :build mine
+Buffer allocation underflow
+No such directory VERIFY/*
+
+11 Tue May 21 17:57:36 2024 computerId <harry> loginId <anto> callerIP <> in sentence:    :build mine
+Buffer allocation underflow
+No such directory VERIFY/*
+
+12 Tue May 21 17:59:00 2024 computerId <harry> loginId <anto> callerIP <> in sentence:    :build mine
+Buffer allocation underflow
+No such directory VERIFY/*
+
+16 Tue May 21 18:01:37 2024 computerId <harry> loginId <anto> callerIP <> in sentence:    :build mine
+Buffer allocation underflow
+No such directory VERIFY/*
+
+17 Tue May 21 18:01:55 2024 computerId <harry> loginId <anto> callerIP <> in sentence:    :build mine
+Buffer allocation underflow
+No such directory VERIFY/*
+
+19 Tue May 21 18:15:08 2024 computerId <harry> loginId <anto> callerIP <> in sentence:    :build mine
+Buffer allocation underflow
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+22 Tue May 21 18:16:00 2024 computerId <harry> loginId <anto> callerIP <> in sentence:    :build mine
+Buffer allocation underflow
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+4 Tue May 21 18:18:17 2024 computerId <harry> loginId <mr_donk> callerIP <> in sentence:    :build mine
+Buffer allocation underflow
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+27 Fri Jun 07 18:12:52 2024 computerId <harry> loginId <anto> callerIP <> in sentence:    :build mine
+Buffer allocation underflow
+No such directory VERIFY/*
+
+29 Fri Jun 07 18:13:10 2024 computerId <harry> loginId <anto> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+No such directory VERIFY/*
+
+1 Fri Jun 07 18:17:11 2024 computerId <anonymous> loginId <anto> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+31 Sat Jun 08 01:42:44 2024 computerId <harry> loginId <anto> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+No such directory VERIFY/*
+
+32 Sat Jun 08 01:47:51 2024 computerId <harry> loginId <anto> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+No such directory VERIFY/*
+
+33 Sat Jun 08 01:48:03 2024 computerId <harry> loginId <anto> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+No such directory VERIFY/*
+
+33 Sat Jun 08 01:48:31 2024 computerId <harry> loginId <anto> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+36 Sat Jun 08 01:48:59 2024 computerId <harry> loginId <anto> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+No such directory VERIFY/*
+
+37 Sat Jun 08 01:49:29 2024 computerId <harry> loginId <anto> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+0 Sat Jun 08 01:49:44 2024 computerId <harry> loginId <toto> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+0 Sat Jun 08 02:09:32 2024 computerId <harry> loginId <azkmelz> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+0 Sat Jun 08 02:25:54 2024 computerId <harry> loginId <ajjlmrr> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+No such directory VERIFY/*
+
+0 Sat Jun 08 02:26:34 2024 computerId <harry> loginId <ajjlmrr> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+0 Sat Jun 08 02:26:52 2024 computerId <anonymous> loginId <kajlmrjlmrejkl> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+No such directory VERIFY/*
+
+0 Sat Jun 08 02:27:58 2024 computerId <anonymous> loginId <kajlmrjlmrejkl> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+0 Tue Jun 11 15:20:31 2024 computerId <ai-fr3d> loginId <aleklel> callerIP <> in sentence:    :build german
+Error opening utf8writeappend file VERIFY/introductions-b1.txt: No such file or directory
+
+0 Tue Jun 11 15:20:31 2024 computerId <ai-fr3d> loginId <aleklel> callerIP <> in sentence:    :build german
+No such directory VERIFY/*
+
+1 Tue Jun 11 15:20:54 2024 computerId <anonymous> loginId <aleklel> callerIP <> in sentence:    :build mine
+Buffer allocation underflow
+No such directory VERIFY/*
+
+16 Tue Jun 11 15:23:52 2024 computerId <harry> loginId <aleklel> callerIP <> in sentence:    :build german
+Error opening utf8writeappend file VERIFY/introductions-b1.txt: No such file or directory
+
+16 Tue Jun 11 15:23:52 2024 computerId <harry> loginId <aleklel> callerIP <> in sentence:    :build german
+No such directory VERIFY/*
+
+3 Tue Jun 11 15:25:53 2024 computerId <anonymous> loginId <aleklel> callerIP <> in sentence:    :build mine
+Buffer allocation underflow
+No such directory VERIFY/*
+
+16 Tue Jun 11 15:28:24 2024 computerId <harry> loginId <aleklel> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+No such directory VERIFY/*
+
+0 Tue Jun 11 15:31:04 2024 computerId <ai-fr3d> loginId <aleklel> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+No such directory VERIFY/*
+
+1 Tue Jun 11 15:31:44 2024 computerId <ai-fr3d> loginId <aleklel> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+No such directory VERIFY/*
+
+17 Tue Jun 11 15:36:08 2024 computerId <harry> loginId <aleklel> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+No such directory VERIFY/*
+
+18 Tue Jun 11 15:46:52 2024 computerId <harry> loginId <aleklel> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+No such directory VERIFY/*
+
+20 Tue Jun 11 15:52:04 2024 computerId <harry> loginId <aleklel> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+No such directory VERIFY/*
+
+22 Tue Jun 11 16:03:16 2024 computerId <harry> loginId <aleklel> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+5 Tue Jun 11 17:46:23 2024 computerId <harry> loginId <aeorieor> callerIP <> in sentence:    :build game
+No such directory VERIFY/*
+
+0 Tue Jun 11 17:48:20 2024 computerId <anonymous> loginId <aeorieor> callerIP <> in sentence:    :build game
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+0 Tue Jun 11 17:49:24 2024 computerId <anonymous> loginId <bob> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+3 Tue Jun 11 17:51:31 2024 computerId <harry> loginId <rhker> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+0 Thu Jun 13 12:24:20 2024 computerId <harry> loginId <ekrmlr> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+0 Thu Jun 13 12:25:02 2024 computerId <harry> loginId <rkehrk> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+0 Tue Jun 18 14:21:42 2024 computerId <harry> loginId <ajurotlhkhtzhlt> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+0 Tue Jun 18 14:23:58 2024 computerId <harry> loginId <riiltjotj> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+0 Tue Jun 18 14:25:24 2024 computerId <harry> loginId <tjltjtjkltkjl> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+0 Tue Jun 18 14:35:13 2024 computerId <harry> loginId <tjkthjiriy> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+0 Tue Jun 18 14:36:20 2024 computerId <harry> loginId <tjithjityi> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+0 Tue Jun 18 14:41:28 2024 computerId <harry> loginId <tkkyjkjjkkjjk> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+0 Tue Jun 18 14:43:05 2024 computerId <harry> loginId <jljljj> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+0 Tue Jun 18 14:43:24 2024 computerId <harry> loginId <thhhhththhth> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+0 Tue Jun 18 14:44:23 2024 computerId <harry> loginId <amogusamogusamogus> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+0 Tue Jun 18 14:46:00 2024 computerId <harry> loginId <fitotuerou> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+0 Tue Jun 18 14:46:22 2024 computerId <harry> loginId <gjtkjtjkt> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+0 Tue Jun 18 14:48:21 2024 computerId <harry> loginId <rrrrrrrrrrrrrrrrrrrrrrlrk> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+0 Tue Jun 18 14:51:12 2024 computerId <harry> loginId <thktnhkjthkkh> callerIP <> in sentence:    :build game
+No such directory VERIFY/*
+
+0 Tue Jun 18 14:51:55 2024 computerId <anonymous> loginId <thktnhkjthkkh> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+0 Tue Jun 18 14:53:49 2024 computerId <harry> loginId <rhtthththt> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+0 Tue Jun 18 14:54:28 2024 computerId <harry> loginId <tttttttttttttttttttttttttttjkjtkkttk> callerIP <> in sentence:    :build game
+Buffer allocation underflow
+Failed to load MeCab tagger
+No such directory VERIFY/*
+
+0 Tue Jun 18 14:56:45 2024 computerId <harry> loginId <officerdubois> callerIP <> in sentence:    :build game
+Buffer allocation underflow

@@ -1,0 +1,3 @@
+#Underlying conversation system
+RAWDATA/GAME/gamecontrol.top #script de controle par défaut
+RAWDATA/GAME/game.top # script de  base
